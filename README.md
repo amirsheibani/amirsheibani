@@ -122,4 +122,4 @@ In previous roles, me have developed more than 8 Flutter applications & 3 androi
 -----
 Credits: [Amir Sheibani](https://github.com/amirsheibani)
 
-Last Edited on: 22/Jul/2022
+Last Edited on: 12/Dec/2022
