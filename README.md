@@ -20,6 +20,7 @@ In previous roles, me have developed more than 8 Flutter applications & 3 androi
 ### 📱 &nbsp;Mobile:
 
 &nbsp;Bloc and Cubit state management\
+&nbsp;go Router\
 &nbsp;Freezed\
 &nbsp;getIt\
 &nbsp;Hive local database\
@@ -29,7 +30,12 @@ In previous roles, me have developed more than 8 Flutter applications & 3 androi
 &nbsp;Firebase\
 &nbsp;WebSocket\
 &nbsp;Sendbird SDK chat service\
-&nbsp;Retrofit
+&nbsp;Retrofit\
+&nbsp;Google Map SDK\
+&nbsp;Google Auth\
+&nbsp;Google StreetView\
+&nbsp;Google Firebase\
+&nbsp;Tensorflow\
 
 ### 🖥 &nbsp;REST framework:
 &nbsp;Dart Aqueduct\
