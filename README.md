@@ -35,8 +35,11 @@ In previous roles, me have developed more than 8 Flutter applications & 3 androi
 &nbsp;Google Auth\
 &nbsp;Google StreetView\
 &nbsp;Google Firebase\
-&nbsp;Tensorflow\
+&nbsp;Tensorflow
 
+### 🖥 &nbsp;Published app on store:
+&nbsp;Google Play\
+&nbsp;Apple Store
 ### 🖥 &nbsp;REST framework:
 &nbsp;Dart Aqueduct\
 &nbsp;Python Django Rest framework\
